@@ -1,4 +1,7 @@
 import React from 'react';
+import './Beast.css';
+import Image from 'react-bootstrap/Image';
+import Col from 'react-bootstrap/Col';
 
 class HornedBeast extends React.Component{
 
@@ -22,7 +25,7 @@ class HornedBeast extends React.Component{
                 <h2 onClick={this.handleVote}>{this.props.title}</h2>
                 <p>🤘: {this.state.votes}</p>
                 <img
-                src={this.props.image_url}
+                src={this.props.img}
                 alt={this.props.title}
                 title={this.props.title}
                 />

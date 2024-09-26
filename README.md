@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Time Logs
+
+## Lab 02
+    Estimate of time needed: 4-5 hours
+    Start Time: 4pm
+    Finish Time: ?
+    Actual Time Needed: I didn't keep track of all my breaks and time that I was not specifically working on this lab
